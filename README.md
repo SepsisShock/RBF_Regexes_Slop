@@ -10,4 +10,4 @@ Credits: Regexes originally inspired by Slutty_Husband.
 
 ✗ = Delete
 
-§ = Effects anything outside of "Dialogue",*Asteriks*
+§ = Effects anything outside of "Dialogue", *Asteriks*
