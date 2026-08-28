@@ -5,3 +5,5 @@ You are encouraged to use and modify this work for non-commercial purposes, prov
 If your website, repository, or distribution includes donation or monetization features, please consider contacting SepsisShock before redistributing.
 
 Credits: Regexes originally inspired by Slutty_Husband.
+
+<hr>
