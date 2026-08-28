@@ -7,5 +7,7 @@ If your website, repository, or distribution includes donation or monetization f
 Credits: Regexes originally inspired by Slutty_Husband.
 
 <hr>
+
 ✗ = Delete
+
 § = Effects anything outside of "Dialogue",*Asteriks*
