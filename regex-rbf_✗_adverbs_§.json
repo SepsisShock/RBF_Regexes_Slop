@@ -1,0 +1,17 @@
+{
+    "id": "a38548ef-1889-43bc-a5c2-906ebf34eedc",
+    "scriptName": "RBF ✗ Adverbs §",
+    "findRegex": "/(\"[^\"]*\")|\\s?\\b(?:violently|aggressively|entirely|natively|actively|viciously)\\b,?/gi",
+    "replaceString": "$1",
+    "trimStrings": [],
+    "placement": [
+        2
+    ],
+    "disabled": false,
+    "markdownOnly": true,
+    "promptOnly": true,
+    "runOnEdit": true,
+    "substituteRegex": 0,
+    "minDepth": null,
+    "maxDepth": null
+}
