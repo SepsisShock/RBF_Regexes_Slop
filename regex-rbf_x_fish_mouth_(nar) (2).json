@@ -1,0 +1,17 @@
+{
+    "id": "4e704ece-91af-4b76-8c92-eff867c5c97b",
+    "scriptName": "RBF X Fish Mouth (NAR)",
+    "findRegex": "/(\"[^\"]*\")|(?:\\s*[^\".!?]*\\bmouth\\b[^\".!?]*\\b(?:opens|closes|opened|closed)\\b[^\".!?]*[.!?])|(?:\\s*\\b(?:opens|closes|opened|closed)\\b(?:\\s+again)?[.!?])/gi",
+    "replaceString": "$1",
+    "trimStrings": [],
+    "placement": [
+        2
+    ],
+    "disabled": true,
+    "markdownOnly": true,
+    "promptOnly": true,
+    "runOnEdit": true,
+    "substituteRegex": 0,
+    "minDepth": null,
+    "maxDepth": null
+}
